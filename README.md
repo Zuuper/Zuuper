@@ -1,7 +1,7 @@
 ### Hi there I'am Aditya Ersa👋
 
 
-- 🔭 I’m currently working on Ezv Indonesia
+- 🔭 I’m currently working AMZ Assistant Indonesia
 - 📫 How to reach me: ...
 
 [![My Go to Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuuper)](https://github.com/anuraghazra/github-readme-stats)
